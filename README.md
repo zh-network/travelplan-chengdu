@@ -1,5 +1,5 @@
 # 去成都找老公的计划！
-![transflag](pics/transflag.svg)
+<img src="pics/transflag.svg" alt="transflag" width="300" height="100">
 ## Timeline
 
 ## 10.3 
