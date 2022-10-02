@@ -1,6 +1,6 @@
 # 去成都找老公的计划！
-<img src="pics/transflag.svg" alt="transflag" width="300" height="100"> / 
-<img src="pics/lgbt.svg" alt="lgbtflag" width="300" height="100"> / 
+<img src="pics/transflag.svg" alt="transflag" width="300" height="100" />
+<img src="pics/lgbt.svg" alt="lgbtflag" width="300" height="100" /> 
 
 ## Timeline
 
