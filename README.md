@@ -2,7 +2,7 @@
 <img src="pics/transflag.svg" alt="transflag" width="300" height="100" />
 <img src="pics/lgbt.svg" alt="lgbtflag" width="300" height="100" /> 
 
-## Timeline
+## Timeline updated per max 24hours
 
 #### 10.3 
 
